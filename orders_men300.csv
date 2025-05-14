@@ -1,0 +1,288 @@
+order_id,product_name,product_code,size,order_datetime,user_name,phone_number,quantity,shipping_address,payment_method
+12345,Regular Fit Crew Neck Waffle T-Shirt,C1882AXGR242,S,2025-01-26 14:30:00,John El-zany,+201568519885,3,"17, Al Shamalia St, Downtown, Cairo, Egypt",Visa
+12345,DeFactoFit Slim Fit Flexible Leg Skuba Fabric Jogger,B4761AXNV146,S,2025-01-11 14:27:32,Mohamed Younes,+201039446809,1,"33 Al Khalifa Al Maamoun St, Abdeen, Cairo, Egypt",Visa
+12345,Oversize Fit Crew Neck Printed Short Sleeve T-Shirt,C3627AXKH207,XS,2025-02-02 14:30:00,John El-zany,+201546283245,2,"14th Street, Heliopolis, Cairo",Visa
+ORD-2025-001,Regular Fit Polo Collar Flanel Plaid Long Sleeve Shirt,E2763AXER98,S,2025-01-16 14:30:00,Mahmoud Ahmed,+201147525113,1,"14 Ali Amir Street, Helmeyet El Zaytoun, Cairo, Egypt",Visa
+12345,DeFactoFit Slim Fit Patterned Pocketed Leggings,A6981AXNV146,S,2025-01-07T14:30:00,Mahmoud Ibrahim,+201193866598,2,"14 Nabil El Wakkad St, Nasr City, Cairo",Visa
+ORD-12345,Slim Fit Super Skinny Hem Shorts,B8674AXGR184,XXL,2025-01-19 14:30:00,Hamasa Jacoub,+201179074498,1,"15 Mahmoud Azmy Street, Zamalek, Cairo, Egypt",Visa
+12345,Regular Fit Buttoned Plaid Lumberjack Flannel Long Sleeve Shirt,D4283AXGN755,S,2025-02-18 14:30:00,John Younes,+201031251268,3,"57 Ahmed Helmy St, Heliopolis, Cairo, Egypt",Visa
+OID202502091234,Batman 85 Regular Fit Crew Neck Short Sleeve T-Shirt,C5831AXGR184,S,2025-02-09 14:30:00,CJ Omar,+201572066998,3,"26th of July Corridor, Downtown, Cairo",Visa
+12345,Tapered Fit Regular Hem Trousers,B6667AXKH436,34,2025-01-28 14:30:00,John Younes,+201258182776,3,"12 El Nasr St, Nasr City, Cairo",Visa
+10245,Standard Fit Soft Premium Knit Pullover,D0454AXER140,3XL,2025-01-06 14:30:00,Hamo Kimo,+201104404303,2,"24 El-Nasr St, Nasr City, Cairo",Visa
+12546,Beige Slim Fit Cotton Flexible Chino Pants,C9441AXBG170,Size 31 - Length 30,2025-01-22 14:37:05,CJ Mark,+201121748058,2,"12 Mohammed Mazhar, Zamalek, Cairo",Visa
+12345,Regular Jogger Trousers,A3907AXAR220,32 Size - 32 Length,2025-01-01 14:30:00,CJ El-zany,+201533127941,3,"17, Mohammed Mazhar, Zamalek, Cairo",Visa
+12345,Mesh Lined Short Swim Shorts,X2955AZIN75,S,2025-02-10 14:30:00,Hamasa Kimo,+201101373164,1,"26th of July Corridor, Agouza, Giza, Egypt",Visa
+12345,Regular Fit Stand Collar Cotton Short Sleeve Shirt,C7660AXBG743,XXL,2025-01-05 14:30:00,CJ Younes,+201509090566,2,"10th of Ramadan City, Sharqia",Visa
+12345,Regular Fit Cargo Pocket Twill Trousers,B6642AXBK81,38 Size - 32 Length,2025-02-17 14:30:00,Hamo El-zany,+201576272967,2,"23 July Street, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit V-Neck Top,B4840AXBK81,XXL,2025-01-29 14:30:00,Reda KDB,+201230064447,2,"17, Mohamed Mazhar, Zamalek, Cairo",Visa
+12345,New Regular Fit Pique Polo T-Shirt,D5993AXKH202,XXL,2025-01-17 14:30:00,Mohamed Mark,+201182733917,3,"23 July Street, Nasr City, Cairo",Visa
+12345,Regular Fit Resort Collar Printed Short Sleeve Shirt,Z0133AZKH96,XS,2025-01-18 14:30:00,Hamasa Ahmed,+201583095902,3,"10th of Ramadan City, Cairo Governorate, Egypt",Visa
+12345,Regular Fit Crew Neck Printed T-Shirt,B9004AXBE137,S,2025-01-16 14:30:00,Reda Ahmed,+201052524338,2,"14 Taalat Harb St, Downtown, Cairo, Egypt",Visa
+ORD-12345,Regular Fit Printed Top Bottom 2 Piece Pajama Set,D8228AXAR150,S,2025-02-01 14:30:00,Hamo El-zany,+201287029418,3,"23 Youssef Afifi, Zamalek, Cairo, Egypt",Visa
+12345,New Regular Fit Crew Neck T-Shirt,V7699AZBE576,M,2025-02-08 14:30:00,Reda Omar,+201254043606,2,"23 July Street, Zamalek, Cairo",Visa
+12345,Slim Fit Skinny Leg Shorts,A3893AXBN156,S,2025-02-04 14:30:00,Mahmoud Mark,+201002967172,2,"22nd Mohamed Fared St, Zamalek, Cairo",Visa
+1254,Slim Fit Half Zipper Crinkle Polo Shirt,D6478AXKH499,M,2025-01-15 14:32:10,Mahmoud Mark,+201002967172,2,"17 El Gabalaya St, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit Thin Sweatshirt Fabric Super Skinny Hem Shorts,B8673AXGR437,S,2025-01-31 14:30:00,John Younes,+201039020001,1,"23 July Street, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit Lined Blazer,N0503AZBK27,50,2025-02-19 14:30:00,Mahmoud Kimo,+201586025538,3,"15 Ahmed Orabi St, Downtown, Cairo, Egypt",Visa
+12345,Relax Fit Crew Neck Textured Knitted Pullover,D2061AXAR4,S,2025-01-21 14:30:00,Reda Ahmed,+201078703315,2,"15 Abdel Aziz Fahmy St, Heliopolis, Cairo",Visa
+12345,Regular Fit Cotton Basic Long Sleeve Shirt,B5935AXBK81,XXL,2025-01-30 14:37:12,Hamasa Ahmed,+201522839127,2,"15 Al Galaa St, Downtown, Cairo, Egypt",Visa
+12345,Regular Fit Shorts,W1105AZBE457,M,2025-01-09 14:30:00,Youssef Kimo,+201107650912,3,"23 Muhammad Mazhar, Zamalek, Cairo, Egypt",Visa
+10245,DeFactoFit Slim Fit Woven Sports Shorts,C0318AXGN920,XS,2025-01-30 14:27:11,Youssef Younes,+201595261369,2,"15th Street, Maadi, Cairo, Egypt",Visa
+14562,DeFactoFit Shaquille O'Neal Oversize Fit T-Shirt,D1514AXER105,M,2025-01-20 14:37:05,CJ Mark,+201121748058,1,"22 El Horreya St, Zamalek, Cairo, Egypt",Visa
+1456,Modern Fit Buttoned Lined Basic Blazer,C5777AXBK81,52,2025-02-22 14:30:10,Hamo Younes,+201584506312,2,"13 Gamal Abdel Nasser St, Downtown, Cairo",Visa
+12345,DeFactoFit NBA Chicago Bulls Standard Fit Waist Tied Thick Sweatpants,D3251AXBK81,S,2025-02-18 14:30:00,Hamo Kimo,+201055900830,3,"6th of October, Giza, Egypt",Visa
+23456,Loose Fit Crew Neck Printed Heavy Fabric T-Shirt,B8637AXBG783,XS,2025-01-14 19:45:02,Abdelsattar El-zany,+201149954013,1,"14th Street, Nasr City, Cairo",Visa
+ORD-2025-02-06-001,Loose Fit Crew Neck Flower T-Shirt,C7055AXER137,L,2025-02-06 14:30:00,Reda Kimo,+201095737324,2,"15 Ahmed Hassan St, Nasr City, Cairo",Visa
+EG001,Slim Fit Camisole 2 Piece Undershirt,C9607AXWT34,XL,2025-02-15 14:30:15,Rageh Omar,+201213406410,3,"22 El-Nargeel Street, Nasr City, Cairo",Visa
+12345,Regular Fit Polo Collar Cotton Short Sleeve Shirt,D1057AXBG106,XL,2025-02-15 14:30:00,Mahmoud Younes,+201235045875,3,"15 Abdel Aziz Fahmy St, Nasr City, Cairo, Egypt",Visa
+23456,Jogger Cargo Pocket Stretch in All Directions Trousers,A8019AXBG778,32,2025-01-02 14:30:00,John Ibrahim,+201200327558,1,"14 El-Saraya St, Zamalek, Cairo, Egypt",Visa
+ORD-2025-001,Standard Fit Half Turtleneck Basic Knitted Pullover,A5282AXNV135,S,2025-01-18 14:30:00,Reda Kimo,+201114989146,1,"15 Abdel Aziz Fahmy, Nasr City, Cairo",Visa
+10245,Relax Fit Poplin Short Sleeve Shirt,D8352AXGN1107,L,2025-01-15 14:37:02,Mahmoud Kimo,+201207862759,3,"Nasr City, Cairo, Egypt",Visa
+EG202502181001,Regular Fit Checkered Fleece Long Sleeve Shirt,V2767AZBG702,M,2025-02-18 14:30:00,Mohamed El-Zengi,+201591980571,3,"26th of July Corridor, Mohandessin, Giza, Egypt",Visa
+ORD-20250203-001,DeFactoFit Standard Fit Pocketed Polar Cardigan,D2731AXBG721,M,2025-02-03 14:30:00,Abdelsattar El-zany,+201172205725,2,"14 Mustafa Kamel Street, Downtown, Cairo",Visa
+EG12345,DeFactoFit Standard Fit Sports Woven Shorts,C1533AXAR231,XS,2025-01-03 14:30:00,Hamo Ahmed,+201193353611,3,"6th of October, Sheikh Zayed City, Giza, Egypt",Visa
+1234,Standard Fit Stretchy Leg Thick Sweatpants,A6468AXGR439,L,2025-02-21 14:30:00,Mohamed Ibrahim,+201050505542,3,"17 Gamal Abdel Nasser, Mohandessin, Giza",Visa
+EG-2025-02-00654,Modern Fit Standing Collar Short Sleeve Polo T-Shirt,Z4262AZWT32,XXL,2025-02-06 14:32:15,Hamasa Kimo,+201254158438,2,"10 El Nasr St, Downtown, Cairo",Visa
+EG-2025-001,DeFactoFit Slim Fit Sports Premium Shorts,B4737AXAR231,S,2025-01-06 14:30:00,Abdelsattar KDB,+201551117113,3,"23 July Street, Zamalek, Cairo",Visa
+ORD-12345,Wide Leg Regular Hem With Cargo Pocket Velvet Trousers,C9010AXBG170,32,2025-01-04 14:30:00,Hamo El-zany,+201127313280,3,"23 Abd El Aziz Fahmy St, Heliopolis, Cairo, Egypt",Visa
+EGY202502060001,Modern Fit Polo Neck Textured Long Sleeve Shirt,B7383AXBK27,M,2025-02-06 14:30:15,Abdelsattar Ahmed,+201141769349,1,"23 Mohamed Mahdy St, Zamalek, Cairo",Visa
+12345,Regular Fit Resort Collar Printed Short Sleeve Shirt,Z0133AZWT46,XS,2025-02-03 14:30:00,Mahmoud Ibrahim,+201193866598,1,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+ORD-202501280001,DeFactoFit Slim Fit Sports Short Shorts,B5028AXBE169,XXL,2025-01-28 14:30:15,John Ibrahim,+201200327558,1,"15 Ahmed Hemida St, Nasr City, Cairo",Visa
+12345,Regular Fit Linen Blazer,Z7667AZKH163,52,2025-02-19 14:30:00,Abdelsattar Body,+201019285218,2,"22 Abdel Aziz Fahmy, Heliopolis, Cairo",Visa
+102345,Sergio Regular Fit Normal Waist Pipe Leg Jeans,D9829AXNM34,30 Size - 32 Length,2025-02-24 14:30:15,John Younes,+201039020001,2,"14 Abdel Aziz Fahmy, Nasr City, Cairo",Visa
+10245,Boxy Fit Snap Closure Stand Collar Polar Sweatshirt,D2029AXBN337,S,2025-01-09 14:37:05,Hamasa Mark,+201246895259,2,"14th Street, Zamalek, Cairo, Egypt",Visa
+12345,Defacto Fit NBA Chicago Bulls Licensed Regular Fit Short Leg Shorts,R0535AZBK81,XS,2025-02-15 14:27:33,Hamo El-Zengi,+201114628636,1,"26 July Street, Zamalek, Cairo, Egypt",Visa
+14562,DeFactoFit Standard Fit Scuba Diving Fabric Sweatshirt,B4535AXBG700,L,2025-01-08 14:37:15,John Ahmed,+201048574620,2,"27 Gamal Abd El-Naser, Nasr City, Cairo",Visa
+12345,DeFactoFit Slim Fit Sports Woven Shorts,A9124AXBK81,L,2025-02-06 14:30:00,Mohamed El-zany,+201203630047,1,"22 Nasr Road, Nasr City, Cairo",Visa
+12345,Relax Fit Tencel Short Sleeve Shirt,C4316AXBK81,M,2025-02-07 14:30:00,John El-Zengi,+201163479102,1,"23 Hussein Wassef St, Heliopolis, Cairo, Egypt",Visa
+23542,Standard Fit Crew Neck Basic Knit Comfortable Pullover,A5268AXBK27,S,2025-01-18 14:27:52,Abdelsattar Mark,+201538166484,1,"17 Wadi El Nile, Imbaba, Giza",Visa
+123456,DeFactoFit Standard Fit Hooded Scuba Fabric Sports Sweatshirt,D7364AXBK81,XXL,2025-01-09 14:30:15,Hamo El-zany,+201576272967,1,"15 Ahmed Orabi St, Behind Cinema Tahrir, Downtown, Cairo, Egypt",Visa
+12345,Modern Fit Blazer,B0122AXGR377,58,2025-01-05 14:30:00,CJ El-zany,+201208955403,1,"15 Ahmed Hazem St. Nasr City, Cairo",Visa
+12345,jogger Trousers,A5741AXAR163,40 Size - 32 Length,2025-02-14 18:37:00,Mohamed Ibrahim,+201571931588,3,"16 El Nozha Street, Heliopolis, Cairo",Visa
+12345,Slim Fit Crew Neck Printed Short Sleeve T-Shirt,C5451AXBG700,XL,2025-02-08 14:30:00,Abdelsattar Ahmed,+201141769349,3,"22 Mohamed Farid St, Downtown, Cairo, Egypt",Visa
+15423,DeFactoFit NBA Chicago Bulls Oversize Fit Hooded T-Shirt,W9741AZER105,L,2025-02-08 14:30:15,Rageh Ibrahim,+201541518353,1,"6th of October, Sheikh Zayed, Giza",Visa
+12345,Regular Fit Woodcutter Plaid Long Sleeve Shirt,S9275AZAR176,S,2025-01-05 14:30:00,CJ El-zany,+201061487488,1,"15 Ahmed Tayseer St, Zamalek, Cairo, Egypt",Visa
+ORD-2025-001,New Regular Fit Polo Collar Polo T-Shirt,C5586AXKH261,3XL,2025-01-09 14:30:00,Youssef KDB,+201255458093,3,"10th of Ramadan City, 4th District, El Sharkia",Visa
+ORD-23456,DeFactoFit NBA Wordmark Boxy Fit Thick Sweatshirt,B3886AXBK34,XS,2025-02-17 14:30:00,Hamo Jacoub,+201520019452,1,"14 Amar Ibn Yasir St, Manshiyet Naser, Cairo",Visa
+14567,Regular Fit Crew Neck Waffle Sweatshirt,A5802AXGR437,S,2025-02-05 14:30:15,Reda Mark,+201059734077,2,"15 Ahmed Hegazi St, Downtown, Cairo",Visa
+23542,Regular Fit Polo Collar Checked Cotton Long Sleeve Shirt,D7557AXBN192,XS,2025-01-13 14:37:05,John Body,+201095780261,1,"26 July Street, Zamalek, Cairo",Visa
+12345,Modern Fit Polo Neck Textured Long Sleeve Shirt,B7383AXWT34,XL,2025-01-09 14:30:00,Reda Kimo,+201114989146,2,"15 Ahmed Tayseer St, Nasr City, Cairo",Visa
+ORD-2025-001,DeFactoFit NBA Brooklyn Nets Oversize Fit Hooded Scuba Fabric Sports Sweatshirt,D6711AXBG662,M,2025-01-19 14:30:00,John Kimo,+201263492999,3,"15 Mostafa Kamel St, Downtown, Cairo, Egypt",Visa
+12345,Jogger Trousers,A5774AXNV64,30,2025-01-14 14:30:00,Rageh Ibrahim,+201541518353,2,"21 Abd El Aziz Fahmy St, Nasr City, Cairo, Egypt",Visa
+ORD-12345,3 piece Regular Fit Boxer,C3264AXBK81,S,2025-02-14 18:45:12,Hamo Mark,+201038963922,1,"22 Abd El Aziz Fouad, Zamalek, Cairo, Egypt",Visa
+12345,Relax Fit Long Sleeve Sweatshirt,Y9650AZNV195,XS,2025-02-18 14:30:00,Mahmoud El-Zengi,+201163998861,3,"14 Gawad Hosny St, Zamalek, Cairo",Visa
+12345,Slim Fit Slim Cut Crew Neck Printed Short Sleeve T-Shirt,C3952AXBK81,M,2025-02-01 14:30:00,Rageh Kimo,+201120216066,2,"14 Ali Rasha St, Downtown, Cairo",Visa
+12345,DeFactoFit Slim Fit Crew Neck T-Shirt,B2887AXGN920,M,2025-02-19 14:30:00,Rageh El-zany,+201564577288,1,"17, Street 10, Maadi, Cairo, Egypt",Visa
+12456,Man Flat Sole Plush Home Slippers,D5256AXGR55,40/41,2025-01-24 14:30:00,CJ Ahmed,+201039527360,2,"25 Orabi, Downtown, Cairo",Visa
+12345,Basic Mesh Lined Short Swim Shorts,B7297AXBE343,L,2025-01-27 14:30:15,Mahmoud Ahmed,+201145252772,2,"6th of October, Giza, Egypt",Visa
+ORD-20250217-001,Standard Fit Polo Collar Knitwear Pullover,D3589AXBN497,S,2025-02-17 14:30:00,Hamo Body,+201506135540,2,"26 July Street, Zamalek, Cairo",Visa
+12345,3 piece Regular Fit Boxer,B7776AXKH493,XL,2025-01-22 14:30:00,John El-Zengi,+201016626979,1,"26th of July Street, Zamalek, Cairo, Egypt",Visa
+ORD202502051234,Beige Slim Fit Elastic Leg Jogger Pants,D8638AXGR107,28,2025-02-05 14:30:15,Hamo Kimo,+201104404303,2,"12 Al-Azhar Street, Nasr City, Cairo",Visa
+23564,Regular Fit Cotton Striped Long Sleeve Shirt,B2902AXIN260,XXL,2025-01-21 14:37:12,CJ Kimo,+201150882723,1,"14th Street, Nasr City, Cairo",Visa
+12345,Pedro Slim Fit Normal Waist Skinny Leg Jeans,D6470AXNM55,32 Size - 30 Length,2025-01-02 14:30:00,Hamo El-Zengi,+201114628636,3,"14 Gawad Hosny, Hadayek El-Qubba, Cairo, Egypt",Visa
+10235,Baggy Fit Regular Hem Gabardine Trousers,B3664AXBN303,34 Size - 30 Length,2025-02-13 14:27:42,Mahmoud Mark,+201002967172,2,"10th of Ramadan City, 6th District, El Shorouk, Egypt",Visa
+12345,jogger Cotton Trousers,D7782AXKH435,32,2025-01-06 14:30:00,Hamasa Jacoub,+201218594335,1,"24 El-Nasr St, Nasr City, Cairo",Visa
+12345,Standard Fit Regular Cut Crew Neck Cotton Knit T-Shirt,D3580AXIN34,L,2025-01-12 14:30:00,Mahmoud KDB,+201144047447,3,"15 Ahmed Helmy St, Zamalek, Cairo, Egypt",Visa
+12345,Long Muscle Fit Crew Neck T-Shirt,N2104AZBK81,XXL,2025-01-16 14:30:00,Mohamed Mark,+201043603018,3,"Nasr City, Cairo, Egypt",Visa
+23456,Waterproof Oversize Fit College Collar Embroidered Bomber Jacket,D6304AXNV175,M,2025-01-03 14:27:04,Mohamed Jacoub,+201248518721,1,"15 Ahmed Orabi Street, Nasr City, Cairo",Visa
+OD12345,Comfort Fit Stand Collar Zippered Sweatshirt,A5276AXAR86,XL,2025-01-03 14:30:00,Youssef Younes,+201508810551,2,"12 Abo El Feda St, Zamalek, Cairo, Egypt",Visa
+12345,DeFactoFit Standard Fit Hooded Sports Sweatshirt,C0482AXKH398,S,2025-02-08 14:30:00,Mohamed Omar,+201062749114,3,"23 July Street, Agouza, Giza, Egypt",Visa
+12345,Modern Fit Standing Collar Short Sleeve Polo T-Shirt,Z4262AZGN50,M,2025-01-10 14:30:00,Youssef Mark,+201593177282,1,"15 Ahmed Helmy Street, Zamalek, Cairo, Egypt",Visa
+ORD-202502200001,DeFactoFit Standard Fit Hooded Scuba Diving Fabric Sweatshirt,B4758AXBG700,M,2025-02-20 14:30:00,CJ El-zany,+201045740833,2,"14 Gamal Abdel Nasser St, Downtown, Cairo, Egypt",Visa
+12345,Comfort Fit Crew Neck Printed T-Shirt,A6868AXGN1019,S,2025-02-07 14:30:00,Reda Omar,+201091445348,2,"6th of October, Giza, Egypt",Visa
+12345,Regular Fit Polo Neck Plaid Lumberjack Flannel Shirt,D6027AXBK81,XS,2025-02-14 14:30:00,Abdelsattar Jacoub,+201054760130,1,"23 July Street, Zamalek, Cairo",Visa
+EGY202502041234,Loose Fit Crew Neck Heavy Fabric Basic T-Shirt,B4844AXBG700,XL,2025-02-04 14:30:00,Mohamed El-Zengi,+201173347281,2,"17 Street, Apartment 4, Zamalek, Cairo, Egypt",Visa
+1254,Regular Fit Flannel Long Sleeve Checkered Shirt,D5835AXBK81,XS,2025-02-13 14:32:15,CJ Ahmed,+201039527360,1,"27 El Galaa St, Downtown, Cairo, Egypt",Visa
+12345,DeFactoFit Standard Fit Hooded Scuba Fabric Sports Sweatshirt,B4511AXBK81,S,2025-01-31 14:30:00,Hamo Younes,+201019867198,3,"26 July Street, Zamalek, Cairo, Egypt",Visa
+EGY202501110001,Oversize Fit Crew Neck T-Shirt,Z6083AZBK81,L,2025-01-11 14:30:00,Youssef Younes,+201039592871,2,"14 Hassan Sabry St, Zamalek, Cairo",Visa
+ORD-12345,Boxy Fit Long Sleeve Sweatshirt,V5306AZPN407,S,2025-02-19 14:30:00,Mohamed Younes,+201114697041,3,"31 El Sharif St, Heliopolis, Cairo, Egypt",Visa
+12546,Boxy Fit Printed Long Sleeve Sweatshirt,X8282AZBK81,M,2025-02-02 14:30:15,Rageh Younes,+201185624286,1,"Sheraton, Heliopolis, Cairo, Egypt",Visa
+12345,Regular Fit Cotton Long Sleeve Shirt,B5587AXBG161,XS,2025-01-19 14:30:00,John El-Zengi,+201150644206,2,"14 Marie Louis, Downtown, Cairo",Visa
+12345,Regular Fit Bermuda Basic Shorts,D7920AXGR377,XL,2025-01-20 14:30:00,Mohamed Mark,+201182733917,1,"23 July Street, Zamalek, Cairo, Egypt",Visa
+EG202501060001,Slim Fit Rib Hem Zipper Pocket Sweatpants,A4387AXAR227,L,2025-01-06 14:30:00,Hamasa Omar,+201146323346,3,"23 July Street, Zamalek, Cairo",Visa
+10234,Long Muscle Fit Crew Neck Basic T-Shirt,N2104AZGR91,S,2025-02-25 14:30:00,Hamasa KDB,+201080392870,1,"15 May, Nasr City, Cairo, Egypt",Visa
+EG202501081234,DeFactoFit Slim Fit Leg Scuba Diver Fabric Joggers,Z9112AZBK81,L,2025-01-08 14:37:42,Youssef Ibrahim,+201218973520,3,"17 Ibraheem St, Nasr City, Cairo",Visa
+ORD-20250205-001,3 piece Regular Fit Boxer,N4277AZBK27,3XL,2025-02-05 14:30:00,John Ibrahim,+201148803647,1,"Apartment 15, Building 17, Street 25, Zamalek, Cairo, Egypt",Visa
+ORD-2025-001,Regular Fit Polo Collar Cotton Short Sleeve Shirt,D1057AXWT55,XXL,2025-01-26 14:30:00,Hamo KDB,+201545593789,1,"15 Ahmed Orabi St, Zamalek, Cairo, Egypt",Visa
+10567,Regular Fit Printed Viscose Short Sleeve Shirt,C7687AXBN105,XS,2025-02-02 14:37:12,Hamo Younes,+201584506312,3,"26th of July Corridor, Zamalek, Cairo, Egypt",Visa
+12546,Relax Fit Straight Leg Linen Trousers,C1117AXBG732,34 Size - 30 Length,2025-02-21 14:37:05,Mahmoud Jacoub,+201589347151,1,"16 Mohamed Mazhar, Zamalek, Cairo, Egypt",Visa
+12345,New Regular Fit Crew Neck Basic T-Shirt,V7699AZBN192,XL,2025-01-08 14:30:00,Rageh El-Zengi,+201217956467,3,"14th Street, Zamalek, Cairo, Egypt",Visa
+EG202501050001,Regular Fit Jogger Pants,C6906AXBK81,30,2025-01-05 14:30:00,John Younes,+201258182776,1,"23 Mahmoud Azmy Street, Zamalek, Cairo",Visa
+12345,Regular Fit Cotton Short Sleeve Shirt,D1902AXBK81,S,2025-01-22 14:30:00,Hamasa KDB,+201578368977,2,"15 Ahmed Orabi St, Nasr City, Cairo, Egypt",Visa
+ORD-2025-001,Straight Leg Joggers,D3695AXNV253,36,2025-01-11 14:30:00,John Ibrahim,+201237776610,2,"17, Hassan Maamoun St, Downtown, Cairo",Visa
+10245,Regular Fit Polo Collar Cotton Long Sleeve Shirt Jacket,B4689AXBG686,S,2025-02-02 14:30:15,Reda El-Zengi,+201547619201,3,"15 Al-Azhar St, Nasr City, Cairo, Egypt",Visa
+12345,3 piece Regular Fit Boxer,B7185AXNV135,XXL,2025-01-20 14:30:00,Mahmoud Omar,+201251711936,2,"15 Ahmed Tayseer St, Nasr City, Cairo",Visa
+ORD-202502200001,Slim Fit Polo Collar Long Sleeve Shirt,D4533AXWT34,L,2025-02-20 14:30:00,Hamo El-Zengi,+201519894925,3,"15 Ataba St, Al Azbakeya, Cairo, Egypt",Visa
+12564,Regular Fit Crew Neck Printed Sweatshirt,A7462AXBK81,S,2025-01-04 14:37:12,Hamasa KDB,+201080392870,2,"24 Al Khalifa St, Al Abageyah, Nasr City, Cairo",Visa
+ORD202502011234,Tactical Tied Waist Elastic Leg Jogger Cargo Pants,D1044AXBN581,34 Size - 32 Length,2025-02-01 14:37:05,John Kimo,+201213696039,3,"15 Abdel Aziz Fahmy St, Heliopolis, Cairo",Visa
+12345,Regular Fit Crew Neck Jacquard Sweatshirt,D5393AXBK27,S,2025-02-04 14:37:12,Mahmoud Kimo,+201244774178,1,"23 July Street, Zamalek, Cairo, Egypt",Visa
+ORD-20250213-001,Slim Fit Crew Neck Printed T-Shirt,C5449AXYL506,L,2025-02-13 14:30:00,Mahmoud Ibrahim,+201266068948,2,"24 Gamal Abdel Nasser St, Downtown, Cairo",Visa
+12345,Regular Fit Trousers,A5331AXBK81,32 Size - 32 Length,2025-02-11 14:30:00,CJ Omar,+201572066998,1,"14 Al Haram Street, Giza",Visa
+EGY202502210001,Relax Fit Crew Neck Cotton Knitted Cotton Pullover,D3290AXNV64,L,2025-02-21 14:30:00,John Ahmed,+201138777604,1,"16 Abdel Aziz Fahmy St, Heliopolis, Cairo",Visa
+12345,Oversize Fit Crew Neck Back Printed Short Sleeve T-Shirt,C2134AXBK81,XS,2025-02-16 14:30:00,John Body,+201095780261,1,"12 Street, Zamalek, Cairo, Egypt",Visa
+ORD-12345,jogger Super Skinny Hem Trousers,B2155AXBG180,32,2025-02-21 14:30:00,John Jacoub,+201157326633,2,"10th of Ramadan City, Heliopolis, Cairo, Egypt",Visa
+23542,jogger Super Skinny Hem Gabardine Trousers,Z9933AZKH430,36,2025-01-11 14:27:32,John El-Zengi,+201163479102,1,"23 July Street, Zamalek, Cairo, Egypt",Visa
+ORD-20250210-001,Jogger Cargo Pocket Stretch in All Directions Trousers,A8019AXBG778,32,2025-02-10 14:30:00,Reda Kimo,+201251977328,2,"15 Mahmoud Azmy Street, Zamalek, Cairo, Egypt",Visa
+10245,Standard Fit Crew Neck Knitwear Pullover,D1968AXBG295,L,2025-01-21 14:37:12,Youssef KDB,+201203669530,1,"26th of July Corridor, Agouza, Giza",Visa
+12345,Regular Fit Oxford Basi Long Sleeve White Shirt,B1873AXWT82,L,2025-02-05 14:30:00,Youssef Mark,+201051883587,3,"Apartment 4, Building 17, Street 25, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit Trousers,B1680AXGR489,30 Size - 32 Length,2025-01-18 14:30:00,Mahmoud Kimo,+201226036455,1,"15 Abdel Aziz Street, Zamalek, Cairo, Egypt",Visa
+12345,Beetlejuice Regular Fit Printed Cotton T-Shirt,D8515AXER105,XS,2025-02-06 14:30:00,Hamasa Ahmed,+201086390566,1,"23 July Street, Zamalek, Cairo",Visa
+12345,Slim Fit Jean Shorts,C2696AXNM39,30,2025-01-09 14:37:12,Youssef Younes,+201595261369,3,"14 Mahmoud Azmy Street, Zamalek, Cairo, Egypt",Visa
+12345,DeFactoFit Slim Fit Printed Sports T-Shirt,X6142AZBK81,L,2025-02-18 14:30:15,Mohamed El-Zengi,+201173347281,3,"15 Ahmed Orabi St, Zamalek, Cairo",Visa
+12345,New Regular Fit Short Sleeve Pique Polo T-Shirt,C6006AXTR468,L,2025-01-26 14:30:00,John Omar,+201245533912,3,"15th Street, Nasr City, Cairo, Egypt",Visa
+12345,DeFactoFit NBA Los Angeles Lakers Oversize Fit Scuba Fabric Sports Sweatshirt,D6709AXBK82,XL,2025-01-11 14:30:15,Rageh El-Zengi,+201217956467,1,"15 Ahmed Helmy Street, Zamalek, Cairo, Egypt",Visa
+EG202502180001,Oversize Fit Crew Neck Printed Short Sleeve T-Shirt,C0151AXBG786,XS,2025-02-18 14:30:00,Rageh El-Zengi,+201217956467,3,"42 El-Shaheed Ismail Mohieddin St, Zamalek, Cairo, Egypt",Visa
+12345,DeFactoFit Standard Fit Pocketed Polar Cardigan,D2731AXBK81,M,2025-01-09 14:30:00,Hamo KDB,+201139191970,3,"7 El Hegaz St, Heliopolis, Cairo",Visa
+23546,DeFactoFit Standard Fit Pocketed Polar Cardigan,D2731AXBG721,M,2025-02-23 14:37:15,Reda Ibrahim,+201567123303,2,"17, Gameat El Dewal El Arabiya, Nasr City, Cairo",Visa
+12345,jogger Regular Hem Trousers,B6551AXBK27,34,2025-01-08 14:30:00,Reda Ahmed,+201068815615,1,"Nasr City, Cairo, Egypt",Visa
+12345,Crop Trousers,B0071AXKH68,36,2025-02-12 14:30:00,Hamo Ahmed,+201131636082,2,"57, Aboul Mahasen St, Nasr City, Cairo",Visa
+12345,DeFactoFit Standard Fit Printed Shorts,B0332AXBE89,L,2025-01-12 14:30:00,John KDB,+201265349888,1,"21 Abdel Aziz Fahmy St, Nasr City, Cairo",Visa
+12345,Elastic Waist Double Leg Gabardine Jogger Pants,Y2651AZBK27,36,2025-01-01 14:30:00,Mahmoud Ibrahim,+201193866598,3,"26th of July Corridor, Zamalek, Cairo",Visa
+12345,Slim Cropped Fit Regular Waist Jeans,D5866AXNM55,32,2025-01-30 14:37:12,CJ Mark,+201121748058,1,"15 Ramadan Hassan St, Nasr City, Cairo",Visa
+10234,Regular Fit Crew Neck Back Printed Heavy Fabric T-Shirt,B4219AXOG589,S,2025-02-07 14:30:15,Youssef Omar,+201222926482,1,"15 Ahmed Hassan Street, Zamalek, Cairo, Egypt",Visa
+12345,New Regular Fit Crew Neck Cotton Basic T-Shirt,V7699AZGN759,S,2025-01-19 14:37:15,Abdelsattar El-zany,+201149954013,2,"14 Ramadan St, Nasr City, Cairo, Egypt",Visa
+12345,DeFactoFit Standard Fit Crew Neck Printed T-Shirt,A5825AXWT80,XS,2025-01-06 14:30:00,Mahmoud Omar,+201251711936,1,"15 Abdel Aziz Fahmy St, Heliopolis, Cairo, Egypt",Visa
+12345,Regular Fit Polo Collar Cotton Short Sleeve Shirt,D1057AXBK81,XS,2025-01-17 14:30:00,Mahmoud Ibrahim,+201193866598,2,"15 Mahmoud Azmy Street, Zamalek, Cairo",Visa
+12345,DeFactoFit Standard Fit Heavy Fabric Short Sleeve Sports T-Shirt,C2829AXAR231,M,2025-01-05 14:30:00,Hamo Ibrahim,+201213393556,3,"23 July St, Nasr City, Cairo",Visa
+23456,Swim Shorts,Y9142AZIN75,XXL,2025-01-07 14:30:00,Hamo Mark,+201038963922,3,"15 Gamal Abdel Nasser St, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit Crew Neck Basic Short Sleeve T-Shirt,M6606AZBK81,L,2025-02-10 14:30:00,Mohamed El-Zengi,+201565350960,3,"15 Ahmed Orabi St, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit Basic Long Sleeve Shirt,A7894AXBG193,M,2025-01-26 14:30:00,Hamasa Kimo,+201185764879,1,"14 Hussein Hegazi St, Nasr City, Cairo",Visa
+10245,Regular Fit Pocketed Straight Leg Chino Pants,D1050AXBN285,30 Size - 32 Length,2025-02-02 14:30:00,Mahmoud Mark,+201002967172,1,"24 El-Montazah St, Zamalek, Cairo, Egypt",Visa
+ORD-20250203-001,Standard Fit Half Turtleneck Basic Knitted Pullover,A5282AXAR86,XS,2025-02-03 14:45:10,Hamo Younes,+201584506312,3,"26th of July St, Zamalek, Cairo",Visa
+EG-20250206-001,Regular Fit Crew Neck Washed Effect Basic Sweatshirt,B9221AXBN105,S,2025-02-06 14:30:00,Rageh Mark,+201118336331,2,"22nd District, Nasr City, Cairo, Egypt",Visa
+ORD-20250122-001,Comfort Regular Fit Crew Neck Printed T-Shirt,C1865AXGN1227,XS,2025-01-22 14:30:15,John Omar,+201069915931,3,"23 Abd El Aziz Fahmy, Heliopolis, Cairo, Egypt",Visa
+14579,Standard Fit Crew Neck Basic Knitted Pullover,D1967AXBK27,XXL,2025-02-04 14:27:12,John Kimo,+201263492999,3,"26th of July St, Zamalek, Cairo",Visa
+ORD-1254,Relax Fit Resort Collar Printed Cotton Shirt,D4623AXYL221,M,2025-02-16 14:30:00,CJ El-zany,+201061487488,3,"5th Settlement, New Cairo, Egypt",Visa
+ORD202502131047,Relax Fit Polo Neck Short Sleeve Shirt,C8157AXNV135,XL,2025-02-13 10:47:03,John Omar,+201021244210,2,"15 Abdel Aziz Street, Zamalek, Cairo, Egypt",Visa
+12345,DeFactoFit Standard Fit Hooded Sports Sweatshirt,C0482AXKH398,M,2025-01-19 14:30:00,Mohamed El-Zengi,+201540517626,1,"28 Khalifa Maamoun St, Nasr City, Cairo",Visa
+23567,Slim Fit Thin Sweatshirt Fabric Tall Short,T4693AZNV64,M,2025-01-31 14:27:32,Hamo KDB,+201179341547,3,"14 Ali Ahmed St, Zamalek, Cairo",Visa
+EG202501300001,Regular Fit Basic Bermuda Shorts,D7933AXBG400,XL,2025-01-30 14:37:15,Hamasa Ahmed,+201583095902,2,"23 Al Khalifa St, Nasr City, Cairo",Visa
+12345,DeFactoFit NBA Los Angeles Lakers Oversize Fit T-Shirt,B7480AXPR299,L,2025-01-11T14:30:00,Hamasa Ahmed,+201026532599,2,"14 Hasan El-Shazly St, Heliopolis, Cairo, Egypt",Visa
+12345,DeFactoFit NBA Chicago Bulls Boxy Fit Thick Sweatshirt,D6574AXBK81,XL,2025-01-18 14:30:00,Rageh Ahmed,+201212590844,1,"Apartment 10, Building 15, Street 25, Zamalek, Cairo",Visa
+12345,DeFactoFit Slim Fit Flexible Leg Jogger Sweatpants,A6965AXGR493,S,2025-01-07 14:30:00,CJ Kimo,+201019168772,3,"14 Ramadan Salem, Nasr City, Cairo",Visa
+12345,Slim Fit Crew Neck T-Shirt,B8476AXBG783,M,2025-02-13 14:30:00,Mohamed Jacoub,+201248518721,1,"15 Ahmed Orabi St, Zamalek, Cairo, Egypt",Visa
+ORD-2025-001,Regular Fit Basic Long Sleeve Shirt,D8876AXKH271,XL,2025-01-08 14:30:00,CJ Mark,+201121748058,2,"15 Ahmed Tayseer St, Nasr City, Cairo",Visa
+23546,Relax Fit Crew Neck Knitted Basic Pullover,B9723AXBK81,M,2025-01-03 14:27:11,Rageh Younes,+201283850721,3,"16 Saad Zaghloul St, Downtown, Cairo",Visa
+12345,DeFactoFit Slim Fit Crew Neck Printed Sports T-Shirt,X6142AZAR231,M,2025-01-23 14:30:00,John Jacoub,+201157326633,3,"17, Mohamed Fared St, Zamalek, Cairo",Visa
+ORD-12345,DeFactoFit Standard Fit Sports Shorts,C0427AXNV146,M,2025-01-23 14:30:00,Rageh Kimo,+201255120459,2,"26 July Street, Zamalek, Cairo, Egypt",Visa
+12345,Slim Fit Jeans Bermuda,A6435AXNM39,32,2025-01-21 14:30:00,John Mark,+201147464858,1,"Nasr City, Cairo, Egypt",Visa
+12345,Oversize Fit Long Sleeve Shirt,B5823AXNM39,XS,2025-01-14 19:32:15,Abdelsattar Body,+201057462896,1,"14th Street, Heliopolis, Cairo",Visa
+EG2025021517,Oversize Fit Polo Collar Cotton Shirt,C2841AXBK81,M,2025-02-15 14:30:15,John Body,+201095780261,2,"16th St, Masaken Sheraton, Heliopolis, Cairo",Visa
+ORD-12345,DeFactoFit Standard Fit Sports T-Shirt,C9182AXGR317,L,2025-02-24 14:30:00,Hamo KDB,+201215863685,1,"15 Mostafa Kamel St, Zamalek, Cairo",Visa
+12345,Regular Fit Short Sleeve Polo Basic T-Shirt,X7133AZBK81,L,2025-02-11 14:30:00,Reda Ahmed,+201052524338,3,"Apartment 5, Building 12, Street 9, Zamalek, Cairo, Egypt",Visa
+EY202502031234,Slim Fit Polo Neck Printed Short Sleeve T-Shirt,B2490AXGN1118,S,2025-02-03 14:37:15,Youssef Younes,+201268996498,3,"15 Abdel Aziz Fahmy, Zamalek, Cairo, Egypt",Visa
+1234,3 piece Regular Fit Boxer,B7186AXNV135,L,2025-01-01 14:30:00,Abdelsattar KDB,+201584358910,1,"17 El Safa St, Zamalek, Cairo",Visa
+12345,Oversize Fit Crew Neck Back Printed T-Shirt,B8490AXBK81,XS,2025-02-03 14:30:00,Abdelsattar Body,+201202027221,1,"15 Ahmed Orabi St, Nasr City, Cairo",Visa
+10245,Regular Fit Sweatshirt Fabric Cotton Shorts,Y4284AZBK81,XS,2025-02-02 14:30:15,Mohamed Jacoub,+201076916402,2,"26 July Street, Zamalek, Cairo",Visa
+12345,DeFactoFit Slim Fit Printed Hooded Sleeveless T-Shirt,A1819AXBK81,S,2025-01-18 14:30:00,Mohamed Younes,+201543665143,1,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+12345,Boxy Fit Long Sleeve Sweatshirt,V5306AZBG662,L,2025-02-14 14:30:00,Mahmoud Kimo,+201226036455,2,"15 Abdel Aziz Fahmy St, Nasr City, Cairo",Visa
+12345,Regular Fit Gabardine Regular Hem Bermuda,C5397AXBG766,38,2025-01-19 14:30:00,Hamasa KDB,+201578368977,3,"24 El Nasr St, El Nozha, Cairo, Egypt",Visa
+10245,Long Muscle Fit Crew Neck Printed Short Sleeve T-Shirt,B8482AXKH262,S,2025-01-17 14:30:00,Hamasa Omar,+201146323346,3,"15 Ahmed Orabi St, Downtown, Cairo",Visa
+23456,Relax Fit Checkered Cotton Long Sleeve Shirt,Z0639AZBG732,M,2025-02-01 14:30:00,Mahmoud Kimo,+201244774178,2,"26 July St, Zamalek, Cairo, Egypt",Visa
+12345,Comfort Fit Sweatshirt,A5278AXBK81,S,2025-02-03 14:30:00,CJ Ahmed,+201058399838,3,"22nd District, Nasr City, Cairo",Visa
+12345,Slim Fit Crew Neck Basic Short Sleeve T-Shirt,M6606AZWT34,3XL,2025-02-17 14:30:00,CJ El-zany,+201533127941,3,"15th Street, Zamalek, Cairo, Egypt",Visa
+12345,New Regular Fit Crew Neck Printed Thick Sweatshirt,D3670AXNV241,S,2025-02-13 14:30:00,Mahmoud Kimo,+201244774178,1,"21 Abd El Aziz Fahmy, Nasr City, Cairo",Visa
+12345,Regular Fit Hooded Zippered Snap Closure Puffer Jacket,E7286AXBK27,S,2025-02-01 14:30:00,Hamasa Jacoub,+201218594335,1,"15 Gamal Abdel Nasser St, Downtown, Cairo",Visa
+EGY202501140001,Modern Fit Polo Collar Striped Woven Long Sleeve Shirt,A9882AXBE303,S,2025-01-14 10:45:12,Abdelsattar Ibrahim,+201095552017,3,"24 El Sharifa Faten Alley, Nasr City, Cairo",Visa
+EGY12345,3 piece Regular Fit Boxer,C3293AXNV135,S,2025-01-29 14:30:00,Hamo KDB,+201139191970,3,"24 Khalifa Maamoun St, Zamalek, Cairo",Visa
+12345,Relax Fit Crew Neck Printed Cotton Short Sleeve T-Shirt,D2588AXER190,XS,2025-01-06 14:30:00,Hamo Jacoub,+201520019452,2,"17, Gameat El Dewal El Arabiya, Nasr City, Cairo",Visa
+12345,Basic Pocket Straight Leg Jogger,D3695AXBG49,36,2025-01-14 14:30:15,Mohamed El-Zengi,+201173347281,1,"17, Mokattam St, Hadayek El Maadi, Cairo, Egypt",Visa
+ORD-12345,Regular Fit Gabardine Bermuda Shorts,D2899AXAR231,34,2025-01-29 14:30:15,Rageh Kimo,+201550439210,3,"15 Abdel Aziz Street, Zamalek, Cairo, Egypt",Visa
+12453,Man Flat Sole Home Slipper,A8247AXNV44,42/43,2025-01-11T14:27:51,Mahmoud Kimo,+201207862759,1,"57 Tahrir St, Downtown, Cairo",Visa
+12453,DeFactoFit Oversize Fit NBA Miami Heat Licensed Shorts,A1721AXBK81,XS,2025-01-12 14:37:15,Mohamed Mark,+201043603018,1,"17 Al Khalifa Al Maamoun St, Heliopolis, Cairo",Visa
+12345,Tailored Regular Fit Straight Leg Trousers,D3704AXAR198,34,2025-01-08 14:30:00,Mahmoud Younes,+201238578037,2,"14th Street, Heliopolis, Cairo, Egypt",Visa
+ORD202502161234,DeFactoFit NBA Milwaukee Bucks Oversize Fit Sports T-Shirt,D6689AXER105,XL,2025-02-16 14:37:42,John Ibrahim,+201104283427,2,"12 Imam Ahmed St, Nasr City, Cairo, Egypt",Visa
+12345,Relax Fit Poplin Long Sleeve Polo Shirt,C4131AXBK27,XL,2025-01-06 14:30:00,Abdelsattar Body,+201019285218,2,"15 Ahmed Helmy Street, Zamalek, Cairo",Visa
+12345,Modern Fit Lined Blazer,C5990AXNV253,48,2025-02-21 14:35:12,Mahmoud El-Zengi,+201131173685,2,"14 Mariot St, Downtown, Cairo, Egypt",Visa
+12345,Regular Fit Crew Neck Printed 2 Piece Pajama Set,D0939AXNV135,S,2025-01-11 14:30:00,Rageh Younes,+201576109387,3,"15th Street, Zamalek, Cairo, Egypt",Visa
+EGO23020235,Regular Fit Polo Shirt Oxford Long Sleeve Shirt,A8028AXGN1128,S,2025-02-23 14:45:10,Hamasa Kimo,+201185764879,1,"15 El Nasr St, Downtown, Cairo",Visa
+ORD-20250210-001,Comfort Regular Fit Crew Neck Waffle Cotton Basic T-Shirt,B4443AXER105,XS,2025-02-10 14:30:00,Abdelsattar Body,+201019285218,2,"14th Street, Nasr City, Cairo",Visa
+1258,Loose Fit Crew Neck Heavy Fabric Basic T-Shirt,B4844AXBG700,XS,2025-01-22 14:37:12,Mohamed El-Zengi,+201591980571,3,"14th Street, Smouha, Alexandria",Visa
+10245,Slim Fit Polo Collar Striped Cotton Long Sleeve Shirt,B6487AXWT34,XL,2025-01-01 14:30:15,CJ Ahmed,+201039527360,3,"26 July Street, Zamalek, Cairo, Egypt",Visa
+123456,Oversize Fit Cotton Long Sleeve Shirt,B5841AXGR367,M,2025-01-26 14:30:00,Reda KDB,+201543291856,1,"23 Mohamed Farid St, Zamalek, Cairo, Egypt",Visa
+12548,Regular Fit Sweatshirt Fabric Shorts,A2933AXBK81,XS,2025-02-01 14:32:15,Reda El-Zengi,+201547619201,2,"14 Al-Kawthar St, Heliopolis, Cairo",Visa
+12345,Relax Fit Long Sleeve Sweatshirt,E5333AXER134,S,2025-02-02 14:30:00,John Jacoub,+201210581406,1,"26th of July Corridor, Agouza, Giza",Visa
+12345,Regular Fit Polo Collar Short Sleeve Shirt,D4498AXWT34,S,2025-01-06 14:30:00,Youssef El-Zengi,+201208871069,3,"6th of October, Sheikh Zayed, Giza, Egypt",Visa
+10234,Slim Fit Super Skinny Hem Shorts,A3893AXBE524,XXL,2025-02-04 14:27:32,CJ KDB,+201584382172,1,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+10245,Boxy Fit Printed Long Sleeve Sweatshirt,X8282AZKH494,XS,2025-02-08 14:30:15,Reda Ahmed,+201244560804,1,"15 Abdel Aziz Fahmy, Zamalek, Cairo",Visa
+10234,Slim Fit Thin Sweatshirt Fabric Super Skinny Hem Shorts,A3893AXGR91,L,2025-02-22 14:37:05,Rageh El-zany,+201562309173,1,"14 Maarouf St, Nasr City, Cairo",Visa
+12345,Relax Fit Crew Neck Basic Knitted Pullover,D3278AXER139,3XL,2025-01-14 18:45:10,Hamo El-Zengi,+201138465293,2,"15 Ahmed Helmy Street, Zamalek, Cairo, Egypt",Visa
+12345,Regular Fit Textured Short Sleeve Shirt,C9435AXBE723,XL,2025-01-12 14:30:00,Mahmoud Kimo,+201586025538,3,"23 Kamel Mohamed Street, Zamalek, Cairo, Egypt",Visa
+EG12345,DeFactoFit Slim Fit Crew Neck Printed Sports T-Shirt,V2887AZNV201,S,2025-01-18 14:30:00,Reda KDB,+201230064447,1,"22 Salah Salem, Heliopolis, Cairo",Visa
+12546,Relax Fit Cotton Shorts,C7381AXBE666,30,2025-02-07 14:32:15,CJ Kimo,+201193768451,2,"23 Abd El Aziz Fahmy Street, Heliopolis, Cairo",Visa
+1256,Standard Fit Crew Neck Knitwear Pullover,E6985AXGR210,S,2025-02-18 14:32:11,John Body,+201008566052,1,"15 Ahmed Sharbatli St, Nasr City, Cairo",Visa
+EGY202502240001,Slim Fit Shorts,B0799AXBK81,L,2025-02-24 14:30:00,Youssef El-Zengi,+201120846866,2,"6th of October, Sheikh Zayed City, Giza, Egypt",Visa
+1456,Regular Fit Basic Long Sleeve Shirt with Pocket,A5587AXBG193,S,2025-02-04 14:30:15,Mohamed Jacoub,+201076916402,3,"26 July Street, Zamalek, Cairo",Visa
+ORD-12345,Pique Bermuda,A7341AXWT33,36,2025-02-09 14:30:00,Reda Omar,+201254043606,3,"14 Gamal Abdel Nasser St, Downtown, Cairo",Visa
+12345,Slim Fit Jeans Bermuda,A6434AXNM40,32,2025-02-15 14:30:00,Mohamed Younes,+201039446809,2,"26 July Street, Zamalek, Cairo, Egypt",Visa
+1042,Oversize Fit Crew Neck Basic Knitted Pullover,B9718AXER100,XL,2025-01-05 14:37:12,Youssef Jacoub,+201574068643,3,"14th Street, El-Nozha El-Gedida, Cairo, Egypt",Visa
+10245,Slim Fit Printed Short Sleeve Polo T-Shirt,B2492AXBE429,S,2025-02-15 14:32:11,Reda KDB,+201297051222,1,"25 Orabi St, Downtown, Cairo",Visa
+12345,Relax Fit Stand Collar Zippered Basic Thick Sweatshirt,E5334AXER100,S,2025-02-06 14:30:15,Hamasa Kimo,+201101373164,2,"17 El Gabalaya St, Zamalek, Cairo, Egypt",Visa
+12345,DeFactoFit Slim Fit Collar Printed Sports T-Shirt,V2887AZWT80,XS,2025-02-23 14:37:12,Mahmoud Mark,+201022122689,3,"10th of Ramadan Street, Nasr City, Cairo",Visa
+ORD-001234,Slim Fit Ribana Tank Top,B4855AXWT34,XL,2025-01-22 14:30:00,Hamasa Kimo,+201254158438,2,"15 Ahmed Orabi St, Heliopolis, Cairo",Visa
+12345,Regular Fit Crew Neck Dirty T-Shirt,B7755AXGN1175,XXL,2025-02-17 14:30:00,Hamo El-zany,+201155924325,1,"15 Ahmed Orabi St, Heliopolis, Cairo",Visa
+12345,Modern Fit Polo Neck Cotton Shirt,D1629AXBK81,XS,2025-02-19 14:30:00,Abdelsattar Mark,+201538166484,1,"22 El Nasr St, Zamalek, Cairo",Visa
+14532,Standard Fit Crew Neck Basic Knitted Pullover,A8458AXBG684,3XL,2025-01-18 14:27:12,Reda Jacoub,+201263776798,2,"22 El-Thawra St, Downtown, Cairo",Visa
+23456,DeFactoFit Standard Fit Hooded Scuba Fabric Sports Sweatshirt,D7364AXBG721,XL,2025-01-08 14:30:00,Reda Mark,+201582561071,2,"15 Ahmed Helmy St, Nasr City, Cairo",Visa
+ORD202501230001,Gabardine Elastic Waist Leg Jogger Cargo Pants,E1037AXGN425,34,2025-01-23 14:30:15,John Body,+201280874767,2,"8 Esaaf St, Imbaba, Giza, Egypt",Visa
+1234,Extra Slim Fit Basic Chino Trousers,U6628AZNV175,29 Size - 32 Length,2025-01-22 14:30:00,Hamasa Ibrahim,+201571411628,3,"6th of October, Cairo, Egypt",Visa
+12345,Regular Fit Crew Neck T-Shirt,C4480AXER77,XL,2025-01-01 14:30:00,Rageh Ibrahim,+201218408252,2,"16 Aswan Street, Nasr City, Cairo",Visa
+ORD-2025-001,Regular Fit Fleto Pocket Straight Leg Thick Sweatpants,D7601AXNV135,M,2025-01-21 14:30:00,Mahmoud Jacoub,+201169259721,3,"10th of Ramadan Street, Nasr City, Cairo",Visa
+12345,3 piece Regular Fit Boxer,B7970AXNV135,S,2025-02-16 14:37:05,Youssef El-zany,+201543831115,3,"21 Abd El-Aziz Fahmy St, Heliopolis, Cairo, Egypt",Visa
+12345,Long Muscle Fit Crew Neck Printed Short Sleeve T-Shirt,B8482AXKH262,L,2025-01-07 14:30:15,John Ibrahim,+201104283427,2,"23, Street 9, Maadi, Cairo",Visa
+ORD202501170001,DeFactoFit Short Length Swimming Shorts,Z6301AZBK81,XL,2025-01-17 14:30:00,Mohamed Jacoub,+201248518721,1,"23 July Street, Zamalek, Cairo",Visa
+10243,Waist Tied Pocketed Straight Leg Jogger Pants,D8641AXGR210,34,2025-02-22 14:37:15,Abdelsattar KDB,+201584358910,1,"15 Ahmed Hemida St, Heliopolis, Cairo, Egypt",Visa
+12345,Regular Fit Polo Collar Checked Cotton Long Sleeve Shirt,D7555AXKH206,XS,2025-02-13 14:30:00,Youssef Ahmed,+201579960368,1,"37 Abdel Aziz Fahmy St, Heliopolis, Cairo",Visa
+EG-20250122-001,Beige Slim Fit Cotton Flexible Chino Pants,C9441AXBG170,Size 31 - Length 30,2025-01-22 14:37:15,Hamo KDB,+201139191970,2,"15 Ahmed Orabi St, Zamalek, Cairo",Visa
+102345,DeFactoFit Standard Fit Short Sleeve T-Shirt,B4593AXBK81,S,2025-01-03 14:37:15,Mohamed Ibrahim,+201571931588,3,"17, Nabil El Wakkad St, Nasr City, Cairo",Visa
+EG-20250113-001,Slim Fit Italian Collar Non Iron Long Sleeve Shirt,A7803AXWT32,S,2025-01-13 14:30:00,Hamo El-Zengi,+201113673944,1,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+12345,New Regular Fit Crew Neck Basic T-Shirt,V7699AZBE506,XS,2025-02-05 14:30:00,Mahmoud Mark,+201002967172,1,"23 July Street, Zamalek, Cairo, Egypt",Visa
+12345,Regular Fit Cargo Polar Sweatpants,A7040AXBN571,XS,2025-02-23 14:30:00,Mohamed Younes,+201029937257,3,"15 Ahmed Hassan St, Zamalek, Cairo, Egypt",Visa
+23456,Comfort Fit Hooded Basic Sweatshirt,B4446AXIN260,XS,2025-01-28 14:30:15,Rageh El-zany,+201560938624,1,"15 Ahmed Tayseer St, Nasr City, Cairo",Visa
+EG-2025-001,Regular Fit Crew Neck Printed T-Shirt,D4767AXER105,L,2025-01-29 14:35:10,Hamo Kimo,+201086768246,2,"12 Hassan Sabry Street, Zamalek, Cairo",Visa
+EG202502230001,Regular Fit Cargo Jogger Pants,B1916AXBG170,28 Size - 30 Length,2025-02-23 14:37:12,Youssef Ahmed,+201579960368,1,"23 July Street, Zamalek, Cairo",Visa
+12345,Regular Fit Crew Neck Printed T-Shirt,B5067AXGN593,XS,2025-01-09 14:27:32,Youssef Mark,+201530377772,1,"Apartment 3, Building 17, Street 10, Zamalek, Cairo, Egypt",Visa
+12345,Regular Fit Basic Cotton Long Sleeve Shirt,D6727AXAR231,S,2025-02-13 14:30:00,Hamo El-Zengi,+201114628636,2,"15 Ahmed Orabi St, Zamalek, Cairo, Egypt",Visa
+12564,Regular Fit Polo Collar Checked Cotton Long Sleeve Shirt,D7554AXER103,XS,2025-01-28 14:32:10,CJ Body,+201261647257,3,"14 Aly Hassan St, Zamalek, Cairo, Egypt",Visa
+10234,Standard Fit Crew Neck Basic Knitted Pullover,N9902AZGN185,XS,2025-01-14 19:45:00,Reda Ibrahim,+201243524761,3,"14 EL Nasr St, Zamalek, Cairo, Egypt",Visa
+ORD-2025-001,Oversize Fit Crew Neck Printed T-Shirt,D9506AXWT34,XL,2025-01-26 14:30:00,Reda Jacoub,+201263776798,2,"10 Muhammad Mazhar, Zamalek, Cairo, Egypt",Visa
+10258,90's Slim Fit High Waist Skinny Leg Washed Jeans,D8759AXNM36,28,2025-01-25 14:37:05,John Omar,+201021244210,1,"27 Gamal Abdul Naser St, Agouza, Giza",Visa
+12345,Comfort Fit Crew Neck Printed T-Shirt,C4082AXNV239,M,2025-01-18 14:30:00,Mahmoud Mark,+201022122689,3,"10th of Ramadan City, Sharqia",Visa
+1456,Modern Fit Polo Collar Polo T-Shirt,B6374AXGR322,S,2025-01-30 14:37:15,John Ahmed,+201048574620,3,"17, El-Estad El-Dawly St, Zamalek, Cairo",Visa
+EG202501290001,Regular Fit College Collar Zippered Pocketed Jean Jacket,D0420AXNM39,S,2025-01-29 14:37:12,Rageh Kimo,+201253486920,1,"14th Street, Heliopolis, Cairo",Visa
+12345,New Regular Fit Crew Neck T-Shirt,V7699AZKH504,M,2025-02-24 14:30:00,Hamo Kimo,+201023739648,2,"14 Al Horreya St, Downtown, Cairo, Egypt",Visa
+12345,Regular Fit Checkered Long Sleeve Shirt,S9275AZBE303,XS,2025-01-17 14:30:00,Reda Mark,+201059734077,2,"10th of Ramadan City, Sharqia Governorate",Visa
+EG202502031234,Loose Fit Crew Neck Printed Heavy Fabric Cotton T-Shirt,C6196AXBG796,S,2025-02-03 14:45:10,Mahmoud Kimo,+201076659185,2,"23 Abd El Aziz Fahmy St, Heliopolis, Cairo, Egypt",Visa
+1001,Premium Regular Fit V-Neck Knitted Pullover,Y0799AZAR193,XS,2025-02-09 14:30:00,Hamasa Omar,+201171659085,3,"22 Ahmed Orabi St, Dokki, Giza, Egypt",Visa
+EG202501281,New Regular Fit Crew Neck T-Shirt,V7699AZBN319,L,2025-01-28 14:32:15,Mohamed KDB,+201085364147,1,"22 Abdel Aziz Fahmy St, Heliopolis, Cairo",Visa
+ORD-20250206-001,Modern Fit Polo Collar Crinkle Shirt,B7384AXBK27,S,2025-02-06 14:30:00,Abdelsattar Ibrahim,+201054792775,2,"23 Abd El-Aziz Fahmy St, Heliopolis, Cairo, Egypt",Visa
+12345,Loose Fit Jean Shorts,C2699AXNM39,30,2025-01-01 14:30:00,Youssef KDB,+201117079119,3,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+1245,Straight Fit Normal Waist Stretchable Trousers,B9494AXAR167,36,2025-02-08 14:37:15,Mohamed Jacoub,+201248518721,3,"27 Gamal Abdel Nasser, Zamalek, Cairo",Visa
+12345,Pedro Slim Fit Normal Waist Narrow Leg Jeans,B3103AXNM18,33 Size - 32 Length,2025-01-13 14:30:00,Reda Ibrahim,+201139570116,2,"14th Street, Heliopolis, Cairo, Egypt",Visa
+12345,Regular Fit Jacquard Shorts,D5107AXBK81,L,2025-01-13 14:30:00,Mahmoud Mark,+201022122689,1,"23 Abd El Aziz Fahmy, Nasr City, Cairo",Visa
+12345,One Piece Loose Fit Crew Neck Printed T-Shirt,C5871AXGR474,XL,2025-01-17 14:32:15,Hamasa Mark,+201573535763,2,"14th Street, Heliopolis, Cairo, Egypt",Visa
+10245,Slim Fit Half Turtleneck Knitted Pullover,R1127AZBN325,S,2025-02-05 14:30:00,Hamo KDB,+201139191970,3,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+12345,Regular Fit Patterned Short Sleeve Shirt,D4639AXKH396,XS,2025-02-19 14:30:00,John Younes,+201258182776,1,"14 Abbas El Akkad St, Nasr City, Cairo",Visa
+12345,Tailored Regular Fit Trousers,A7273AXBK27,32 Size - 32 Length,2025-02-08 14:30:00,Mahmoud El-Zengi,+201163998861,1,"15 Ahmed Tayseer St, Nasr City, Cairo",Visa
+EG202501310001,Slim Fit Crew Neck Printed Short Sleeve T-Shirt,C5451AXBG700,XL,2025-01-31 14:30:00,John Mark,+201147464858,3,"15 Ahmed Orabi St, Nasr City, Cairo",Visa
+12568,DeFactoFit Standard Fit NBA Miami Heat Licensed Jogger,Z4440AZER105,M,2025-02-24 14:37:11,Abdelsattar Ahmed,+201209718282,3,"15 Ahmed Orabi St, Nasr City, Cairo, Egypt",Visa
+12345,Relax Fit Printed Hooded Waffle Zippered Sweatshirt,D2629AXNV71,S,2025-01-06 14:30:00,Abdelsattar KDB,+201584358910,2,"23 July Street, Mohandeseen, Giza, Egypt",Visa
+1245,DeFactoFit Standard Fit Scuba Diver Fabric Jogger Sweatpants,B4537AXBK81,M,2025-01-02 14:30:15,Reda Kimo,+201095737324,1,"Nasr City, Cairo, Egypt",Visa
+ORD-2025-02-11-001,Boxy Fit Crew Neck Short Sleeve Basic T-Shirt,C8724AXGN1175,XS,2025-02-11 14:30:00,Hamo KDB,+201179341547,1,"14th Street, Nasr City, Cairo",Visa
+ORD-2523,Beige Boxy Fit Crew Neck Waffle Fabric Cotton Basic T-Shirt,E0223AXBG702,S,2025-02-08 14:30:15,Rageh El-Zengi,+201217956467,2,"23 Ahmed Orabi St, Zamalek, Cairo, Egypt",Visa
+10234,Regular Fit Knitwear Polo T-Shirt,D4818AXNV46,M,2025-02-14 14:30:00,Hamasa Ahmed,+201583095902,3,"14th Street, Mansheya, Alexandria",Visa
+23456,Jogger Cargo Pocket Stretch in All Directions Trousers,A8019AXGR370,36,2025-02-08 14:37:12,Rageh Mark,+201064949716,3,"15 Ahmed Helmy Street, Zamalek, Cairo, Egypt",Visa
+12345,DeFactoFit NBA Miami Heat Oversize Fit Crew Neck Cotton T-Shirt,A3807AXRD296,S,2025-01-31 14:30:00,Youssef Younes,+201059903083,3,"13 Abou El Dahab St, Heliopolis, Cairo",Visa
+14567,Regular Fit Polo Neck Overshirt,B7396AXNV106,XL,2025-02-05 14:30:15,CJ El-zany,+201073507112,2,"13th Street, Nasr City, Cairo",Visa
+12345,Waist Laced Jogger Pants,D5966AXBK81,28 Size - 30 Length,2025-02-18 14:30:00,Youssef Ibrahim,+201043487743,1,"17, El Nasr st, Nasr City, Cairo, Egypt",Visa
+12345,jogger Regular Hem Wool Look Trousers,C1474AXAR167,32,2025-01-08 14:30:00,Mahmoud El-zany,+201265863184,2,"15 Ahmed Tayseer, Nasr City, Cairo",Visa
+ORD202502251,Relax Fit Crew Neck Knitwear Pullover,D3263AXNV64,S,2025-02-25 14:37:42,Reda KDB,+201136682758,1,"22 El-Shaer St, Heliopolis, Cairo",Visa
+12345,Relax Fit Lace-Up Shorts,Y3437AZBG676,36,2025-02-01 14:30:00,Mohamed El-zany,+201240280342,1,"17 Gawhar Street, Downtown, Cairo",Visa
+EG-20250213-001,Boxy Fit Vikings Printed Long Sleeve Sweatshirt,D6769AXBK81,M,2025-02-13 14:30:00,Hamo El-Zengi,+201513656948,3,"15 Ahmed Helmy Street, Zamalek, Cairo",Visa
+12543,Regular Fit Regular Hem Shorts,B8796AXGN1211,L,2025-01-31 14:27:12,Hamasa Jacoub,+201218594335,1,"15 Ahmed Orabi St, Heliopolis, Cairo",Visa
+12345,Oversize Fit Hooded Back Printed Sweatshirt,D0851AXBG702,L,2025-01-23 14:30:00,Mahmoud Jacoub,+201589347151,3,"17 Mahmoud Azmy Street, Zamalek, Cairo, Egypt",Visa
+EG-20250225-001,Regular Fit Buttoned Lined Basic Blazer Jacket,B7179AXKH438,56,2025-02-25 14:30:00,Reda Omar,+201014470618,2,"10th of Ramadan City, Sharqia Governorate, Egypt",Visa
+ORD-12345,Modern Fit Short Sleeve Polo Basic T-Shirt,B6374AXBE729,S,2025-02-19 14:30:00,Rageh Kimo,+201255120459,1,"23 Abd El-Aziz Fahmy St, Zamalek, Cairo, Egypt",Visa
+12345,Regular Fit Jean Bermuda Shorts,C2694AXNM40,30,2025-01-01 14:30:00,Hamo El-Zengi,+201113673944,3,"14th street, Zamalek, Cairo, Egypt",Visa
+ORD-20250207-001,Oversize Fit Polo Neck Jean Basic Black Shirt,D5111AXNM40,S,2025-02-07 14:30:00,CJ KDB,+201059054453,2,"23 Abd El Aziz Fahmy, Nasr City, Cairo",Visa
+1254,DeFactoFit Standard Fit Hooded Short Sleeve T-Shirt,C1425AXBK81,XL,2025-01-16 14:30:15,Hamasa Jacoub,+201243743398,2,"10th of Ramadan City, 6th District, Sharqia Governorate, Egypt",Visa
