@@ -27,16 +27,5 @@ This project is a production-ready, AI-powered chatbot designed for **Defacto**,
 
 ## 📦 Project Structure
 
-defacto-chatbot/
-├── app.py # Main Flask app
-├── vectorstore_faiss/ # FAISS vector DB
-├── data/ # Source documents (FAQs, etc.)
-├── logs/ # Session and interaction logs
-├── utils/
-│ ├── embedding.py # HuggingFace embedding setup
-│ ├── retrieval.py # Retrieval logic using FAISS
-│ ├── keyword_utils.py # Keyword extraction and filtering
-│ └── session_manager.py # Facebook user session handling
-├── requirements.txt
-└── README.md
+
 
